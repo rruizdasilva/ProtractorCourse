@@ -18,7 +18,7 @@ getUsername()
     return this.username;//username property of the class
 }
 
-setUsername(username:string)
+setUsername(username:string) 
 {
  this.username=username;      //set username property to one name
 }
