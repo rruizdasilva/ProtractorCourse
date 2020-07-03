@@ -7,7 +7,6 @@ describe('Protractor Course', ()=> {
     it('Perform calculation', async()=> {
         
         let calc = new Calculator();
-
         
         browser.get('http://juliemr.github.io/protractor-demo/');
 //repeater ,  chain locators, And css for identical tags
